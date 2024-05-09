@@ -39,7 +39,7 @@ class Paper {
    * Builder.
    */
   public function __construct($id, $title, $type, $authors = []) {
-    //ATRIBUIÇÃO FALTANDO / IMPLEMENTAÇÃO DO MÉTODO CONSTRUTOR INCOMPLETA.
+    // ATRIBUIÇÃO FALTANDO / IMPLEMENTAÇÃO DO MÉTODO CONSTRUTOR INCOMPLETA.
     $this->id = $id;
     $this->title = $title;
     $this->type = $type;
