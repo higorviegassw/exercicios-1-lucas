@@ -55,11 +55,11 @@ class Main {
     // PARA CADA DADO RETORNADO DA FUNÇÃO 'scrap()'
     foreach ($data[0] as $paper) {
       // PREPARA UM ARRAY PARA SER INSERIDO NAS LINHAS SEGUINTES.
-      $newRow = array(
+      $newRow = [
         $paper->id,
         $paper->title,
         $paper->type,
-      );
+      ];
       // PARA CADA AUTOR DO PAPER ADICIONA SEU NOME E INSTITUIÇÃO.
       foreach ($paper->authors as $author) {
         array_push($newRow, $author->name);
