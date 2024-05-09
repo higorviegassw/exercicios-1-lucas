@@ -1,0 +1,15 @@
+PHP links
+https://scrapfly.io/blog/how-to-select-elements-by-class-in-xpath/
+https://www.php.net/manual/en/class.domxpath.php
+https://www.php.net/manual/en/domxpath.construct.php
+https://stackoverflow.com/questions/48085772/php-domxpath-loop-through-search-and-find-child-div-value
+https://www.php.net/manual/en/function.count.php
+https://www.php.net/manual/pt_BR/control-structures.for.php
+https://www.php.net/manual/en/function.str-replace.php
+https://www.php.net/manual/en/function.array-keys.php
+https://www.php.net/manual/en/function.array-push.php
+https://stackoverflow.com/questions/676677/how-to-add-elements-to-an-empty-array-in-php
+https://stackoverflow.com/questions/1544176/accessing-arrays-inside-arrays-in-php
+https://products.fileformat.com/pt/spreadsheet/php/spout/
+https://stackoverflow.com/questions/3654295/remove-empty-array-elements
+https://opensource.box.com/spout/docs/
